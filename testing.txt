@@ -1,1 +1,1 @@
-Trying out pushing, we'll see how it works
+We're trying out pushing to our new git repository!
