@@ -9,8 +9,10 @@ This repository contains code used to estimate sediment mass displacement on a s
 the original work done by Amanda Alvis (Manaster) through the use of a high-pass Gaussian filter provided by David Shean and Shashank Bhushan. 
 
 ## Repository Navigation
-The main code base is within micro_dem_diff, where final_project_presentation is a trimmed down, simpler version of the more robust code base in final_project.
-All necessary information is within these Jupyter Notebooks with objectives, methods and conclusions reproduced here, and data files are stored in MEL14_data. 
+The main code is within micro_dem_diff, final_project_presentation is a trimmed down, simpler version of the more robust code base in final_project. The 
+best notebook to look at is final_project_np.ipynb.
+
+All necessary information is within this Jupyter Notebook. Objectives, methods and conclusions are reproduced here, and data files are stored in MEL14_data. 
 
 ## Introduction
 Erosion of gravel forest roads can have significant impacts on hydrology and sediment transport processes in forested ecosystems. Understanding the erosion processes 
