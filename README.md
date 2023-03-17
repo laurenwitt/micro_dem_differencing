@@ -12,20 +12,20 @@ the original work done by Amanda Alvis (Manaster) through the use of a high-pass
 The main code base is within micro_dem_diff, where final_project_presentation is a trimmed down, simpler version of the more robust code base in final_project.
 All necessary information is within these Jupyter Notebooks with objectives, methods and conclusions reproduced here, and data files are stored in MEL14_data. 
 
-##Introduction
+## Introduction
 Erosion of gravel forest roads can have significant impacts on hydrology and sediment transport processes in forested ecosystems. Understanding the erosion processes 
 occurring on forest roads is critical to mitigating sediment production in an effective and efficient way. This project is a part of Amanda Alvis' Ph.D. research 
 investigating the sediment transport dynamics of mainline logging roads in western Washington and contributes by using high-resolution digital surface models (DSMs) 
 to help parameterize a larger sediment transport model.
 
-##Objectives
+## Objectives
 The objectives of Amanda's research are to identify areas of high sediment accumulation and erosion and to characterize the extent and rate of wheel rut development, 
 with the overall goal being to investigate the impact of traffic and maintenance practices on forest road erosion.
 
 The objectives of my project are to develop a data analysis product that takes an input of a GeoTiff DSM in an arbitrary coordinate system and produces figures that 
 aid in sediment transport analysis 
 
-##Methods 
+## Methods 
 ### DSM Creation
 
 I used Pix4D to create high-resolution DSMs of the study area that are in an arbitrary coordinate system. This allows me to export a GeoTiff after 3 steps of 
