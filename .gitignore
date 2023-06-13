@@ -1,4 +1,3 @@
 .ipynb_checkpoints
-micro_dem_diff/KID13_data/
-micro_dem_diff/MEL14_data/
-output/
+micro_dem_differencing/MEL14_data
+micro_dem_differencing/KID13_data
